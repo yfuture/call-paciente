@@ -202,8 +202,10 @@ header {
   padding: 4vh 0;
   height: 100vh;
   flex-basis: 35%;
-  background-color: var(--dark-accent);
+  background-color: #120E24;
+  border: 2px solid royalblue;
   border-radius: 20px;
+
 }
 
 #video {
