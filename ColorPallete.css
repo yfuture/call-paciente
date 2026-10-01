@@ -1,0 +1,36 @@
+background: linear-gradient(90deg, #06e2f8 15%, #109cfb 60%, #1b41fe 100%); /*ciano to azul*/
+
+background: linear-gradient(90deg, #07fca6 15%, #0fc6cf 60%, #1b87fd 100%); /*verde to ciano*/
+
+background: linear-gradient(90deg, #0cb3ff 15%, #3a73ff 60%, #701fff 100%); /*azul to roxo*/
+
+background: linear-gradient(90deg, #c2fc8c 15%, #6eed90 60%, #14df93 100%); /*verde claro to verde*/
+
+background: linear-gradient(90deg, #fff262 15%, #feb44b 60%, #ff8a39 100%); /*amarelo to laranja*/
+
+background: linear-gradient(90deg, #ffb339 15%, #ff7338 60%, #ff4b38 100%); /*laranja to laranja escuro*/
+
+background: linear-gradient(90deg, #ff6b52 15%, #e83c40 60%, #d61430 100%); /*vermlho claro to vermelho escuro*/
+
+background: linear-gradient(90deg, #ff7392 15%, #ff527f 60%, #ff346d 100%); /*rosa to vermelho*/
+
+background: linear-gradient(90deg, #f701fb 15%, #b70efd 60%, #781aff 100%); /*fucsia to roxo*/
+
+background: linear-gradient(90deg, #e83638 15%, #a84296 60%, #6250fa 100%); /*vermelho to roxo*/
+
+background: linear-gradient(90deg, #9d3efe 15%, #6c2eff 60%, #3d1eff 100%); /*roxo to azul*/
+
+background: linear-gradient(90deg, #0810d7 15%, #0208a8 60%, #010382 100%); /*azul to azul escuro*/
+
+/*
+• Preto Escuro/Grafite: #121212 (O padrão do Material Design do Google para Dark Mode)
+• Cinza Carvão: #1C1C1E ou #1A1A1A
+• Azul Escuro Profundo: #0A0E17
+• Azul Espacial: #0B132B
+• Roxo Escuro: #1A0B2E
+• Violeta Profundo: #120E24
+
+🎨 Dica de Ouro para Elementos da UI
+Em fundos escuros, em vez de usar cores diferentes para os cartões, menus e modais, aplique uma camada de opacidade branca (de 5% a 15%) sobre o fundo principal. 
+Isso cria uma ilusão de elevação e profundidade muito usada no design moderno.
+*/
