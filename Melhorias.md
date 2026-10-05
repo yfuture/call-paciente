@@ -13,3 +13,5 @@
 #7 TRabalhar na sincronia cliente-servidor (call-server - plugin PEC).
 
 #8 Verificar modo de instalação e configuração inicial para cada UBS.
+
+#9 Verificar o layout/UI do painel de chamadas, (cores, espaçamento, fontes, tamanhos de componentes, etc).
